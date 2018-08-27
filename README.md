@@ -1,24 +1,9 @@
-# README
+# Project for calculating income and expenses
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+На главной странице должны следующие элементы:
+Таблица со столбцами "Дата" и "Сумма оплаты", в которой по каждой записи должны отображаться размеры следующиго платежа, при каждом поступлении денежных средств. 
+  Текущая дата
+  Предстоящие события, на которые необходимо отчисления денег.
+  Даты поступления денежных средств.
+В проекте должен быть возможность создавать, изменять и редактироватьо события с планируемой суммой и регулярные дни поступления денежных средств (зарплата).
+  
